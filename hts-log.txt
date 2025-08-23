@@ -1,13 +1,11 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Aug 2025 18:20:48 at https://gov.pampersbr.org/?utm_source=FB&utm_campaign=%5BTESTE%5D-%5BIMG06%5D-%5BCA3%5D-%5BPROGRAMA%5D+%E2%80%94+C%C3%B3pia%7C120233102487770007&utm_medium=Novo+conjunto+de+an%C3%BAncios+de+Vendas+%E2%80%94+C%C3%B3pia%7C120233102488010007&utm_content=Novo+an%C3%BAncio+de+Vendas%7C120233102488200007&utm_term=Instagram_Feed&utm_id=120233102487770007&fbclid=PAQ0xDSwMKmyBleHRuA2FlbQEwAGFkaWQBqydevHG99wGn0ub3X6lGOmFU7TfMrADhQB4buq5bMTBtwm4rY6JKx2CMc1Ecwg_tHXdAgFo_aem_EcXIykdefiFaLlLoVjn3gA +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://gov.pampersbr.org/?utm_source=FB&utm_campaign=%5BTESTE%5D-%5BIMG06%5D-%5BCA3%5D-%5BPROGRAMA%5D+%E2%80%94+C%C3%B3pia%7C120233102487770007&utm_medium=Novo+conjunto+de+an%C3%BAncios+de+Vendas+%E2%80%94+C%C3%B3pia%7C120233102488010007&utm_content=Novo+an%C3%BAncio+de+Vendas%7C120233102488200007&utm_term=Instagram_Feed&utm_id=120233102487770007&fbclid=PAQ0xDSwMKmyBleHRuA2FlbQEwAGFkaWQBqydevHG99wGn0ub3X6lGOmFU7TfMrADhQB4buq5bMTBtwm4rY6JKx2CMc1Ecwg_tHXdAgFo_aem_EcXIykdefiFaLlLoVjn3gA -O1 "C:\Meus Sites\pamprs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Aug 2025 18:49:24 at https://whatsappbrl.site/funnel/step-01/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://whatsappbrl.site/funnel/step-01/ -O1 "C:\Meus Sites\whats" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-18:20:59	Error: 	"Not Found" (404) at link https://gov.pampersbr.org/verificacao/baseUrl, window.location.href (from https://gov.pampersbr.org/verificacao/index.html)
-18:21:02	Error: 	"Not Found" (404) at link https://gov.pampersbr.org/2/index.html (from https://gov.pampersbr.org/celular/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 39 links scanned, 36 files written (5895707 bytes overall) [3411417 bytes received at 189523 bytes/sec], 4008874 bytes transferred using HTTP compression in 23 files, ratio 37%, 7.1 requests per connection
-(2 errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 4 links scanned, 3 files written (69953 bytes overall) [24361 bytes received at 8120 bytes/sec], 71856 bytes transferred using HTTP compression in 4 files, ratio 28%
+(No errors, 0 warnings, 0 messages)
